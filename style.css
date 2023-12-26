@@ -1,0 +1,16 @@
+.p1 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+.game {
+  display: flex;
+  justify-content: center;
+}
+
+#canvas {
+  border: 1px solid white;
+  background-color: #324a5f;
+}
